@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.17.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.16.0...website-v0.17.0) (2023-09-25)
+
+
+### Features
+
+* **website:** Improve behavior on adding chains and tokens ([#14781](https://github.com/taikoxyz/taiko-mono/issues/14781)) ([fa59e09](https://github.com/taikoxyz/taiko-mono/commit/fa59e092de6114f586f6b8104aae718c61ff01cf))
+
+
+### Bug Fixes
+
+* **website:** remove duplicate and miswording on run a taiko node docs ([#14791](https://github.com/taikoxyz/taiko-mono/issues/14791)) ([9cc10ba](https://github.com/taikoxyz/taiko-mono/commit/9cc10ba6872f744f0c76c64c4bf1120d9199a1a6))
+
 ## [0.16.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.15.0...website-v0.16.0) (2023-09-25)
 
 
